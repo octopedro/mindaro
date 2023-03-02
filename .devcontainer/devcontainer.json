@@ -19,7 +19,9 @@
 		"ms-azuretools.vscode-docker",
 		"ms-kubernetes-tools.vscode-kubernetes-tools",
 		"mindaro.mindaro",
-		"HashiCorp.terraform"
+		"HashiCorp.terraform",
+		"GitHub.copilot",
+		"GitHub.copilot-labs"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
